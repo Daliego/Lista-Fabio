@@ -1,17 +1,13 @@
 {
-    "dependencies": {
-      "prompt-sync": "^4.2.0"
-    },
-    "name": "diego",
+    "name": "q1",
     "version": "1.0.0",
-    "type": "module",
-    "main": "digito_reverse.js",
-    "devDependencies": {},
+    "description": "",
+    "main": "hello_world.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
-    "description": ""
-  }
+    "type": "module"
+}
